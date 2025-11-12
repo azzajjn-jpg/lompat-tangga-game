@@ -4,10 +4,10 @@ const ctx = canvas.getContext('2d');
 
 // Load gambar background dan karakter dengan struktur folder custom
 const bgImg = new Image();
-bgImg.src = "bg lompat tangga/bg.jpg"; // nama dan folder background
+bgImg.src = "unduhan/bg.jpg"; // nama dan folder background
 
 const charImg = new Image();
-charImg.src = "char lompat tangga/Freminet-removebg-preview.png"; // nama dan folder karakter
+charImg.src = "Freminet-removebg-preview/char1.png"; // nama dan folder karakter
 
 // ===== Game Core =====
 let player = {
