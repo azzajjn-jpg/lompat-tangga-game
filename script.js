@@ -7,7 +7,7 @@ const bgImg = new Image();
 bgImg.src = "bg lompat tangga/bg.jpg"; // nama dan folder background
 
 const charImg = new Image();
-charImg.src = "char lompat tangga/char1.png"; // nama dan folder karakter
+charImg.src = "char lompat tangga/Freminet-removebg-preview.png"; // nama dan folder karakter
 
 // ===== Game Core =====
 let player = {
